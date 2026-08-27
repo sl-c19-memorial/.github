@@ -2,6 +2,6 @@
 
 A record of the people Sri Lanka lost to COVID-19.
 
-The memorial was at **srilankac19memorial.org**, a Next.js application.
+The memorial lives at **<https://srilankac19memorial.org/>** — now a static archive, originally a Next.js application.
 
-The archived site is now here: **<https://sl-c19-memorial.github.io/>**
+Mirror: **<https://sl-c19-memorial.github.io/>**
